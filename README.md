@@ -8,3 +8,7 @@ This may coalesce into a book someday, it may rot in my GitHub with so many of m
 
 This book will be written in my prsonal voice, save for the parts where it isn't written by me, should that ever arise. I curse, I use a lot a metaphors, and I don't try to craft too strong a narrative if I find it superfluous.
 
+So if this book is broader than NodeBots, then what is it about?
+
+It's about my journey to become a maker, how I've learned to tap into the wealth of free information that's out there, and a guide for others to use while following their own paths.
+

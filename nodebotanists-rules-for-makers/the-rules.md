@@ -1,6 +1,6 @@
 # 1\) Nodebotanist's Rules for Being a Maker
 
-I try to live by a few axioms that really help me; they're not meant to be a hard-line stance on my part unto you, take from them what you will. I find that they generally get me by with the minimum amount of stress and the most efficient and beneficial rewards.
+I try to live by a few axioms that really help me; they're not meant to be a hard-line stance on my part unto you, take from them what you will. I find that they generally get me by with the minimum amount of stress and the most efficient and beneficial rewards. They also tend to help make interactions with others easier, and are aimed at making the world a better place,
 
 ## 1\) Information Should be Free
 
@@ -38,7 +38,7 @@ You'll forget things over time, and it will bite you. There will be a section on
 
 ## 9\) Teach, and Learn
 
-These go hand in hand, and are essential to not only the community, but to your own path forward
+These go hand in hand, and are essential to not only the community, but to your own path forward. You may think you're not up for teaching, but there are many ways to teach-- there is the classical teaching a class, sure, but writing blog posts, offering advice, being a mentor, or anything that spreads information is teaching.
 
 ## 10\) Don't be an asshole. There's nothing wrong with being nice.
 
